@@ -68,6 +68,15 @@ footer{
         display:none;
     }
     
+    header h1{
+        font-size:50px;
+        /* padding-left: 40px; */
+    }
+
+    ul{
+        display: none
+    }
+
     body{
         padding: 40px;
     }
